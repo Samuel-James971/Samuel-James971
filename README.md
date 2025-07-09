@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>AI+Workflow Automation</b>
+- [AI+Workflow Automation](https://github.com/Samuel-James971/AI-Workflow-Automation)
  
 
   
