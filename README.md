@@ -6,6 +6,7 @@
 - [Email Analysis](https://github.com/Samuel-James971/Email-Analysis-Phishing-)
 - [ISMS](https://github.com/Samuel-James971/ISMS)
 - [Pen Testing](https://github.com/Samuel-James971/Pen-Testing)
+- [Cloud](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/README.md)
  
 
   
