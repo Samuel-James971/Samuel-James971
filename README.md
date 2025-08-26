@@ -7,6 +7,8 @@
 - [DevSecOps Pipeline](https://github.com/Samuel-James971/terraform)
   
 - [AI+Workflow Automation](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/README.md)
+
+- [Mini Threat Detector (Phyton)](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/README.md)
   
 - [Email Analysis](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/README.md)
   
