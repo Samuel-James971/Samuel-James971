@@ -6,6 +6,8 @@
 
 - [DevSecOps Pipeline](https://github.com/Samuel-James971/terraform)
 
+- - [DevSecOps Pipeline](https://github.com/Samuel-James971/terraform)
+
 - [Containerisation](https://github.com/Samuel-James971/Containerisation-/blob/main/README.md)
   
 - [AI+Workflow Automation](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/README.md)
