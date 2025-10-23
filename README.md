@@ -6,7 +6,7 @@
 
 - [DevSecOps Pipeline](https://github.com/Samuel-James971/terraform)
 
-- [Dynamic-Application-Security-Testing-(DAST)](https://github.com/Samuel-James971/Dynamic-Application-Security-Testing-DAST-/blob/main/README.md)
+- [Dynamic Application Security Testing (DAST)](https://github.com/Samuel-James971/Dynamic-Application-Security-Testing-DAST-/blob/main/README.md)
 
 - [Containerisation](https://github.com/Samuel-James971/Containerisation-/blob/main/README.md)
   
