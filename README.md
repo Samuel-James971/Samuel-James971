@@ -12,7 +12,7 @@
   
 - [AI+Workflow Automation](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/README.md)
 
-- [Network Traffic Analysis project (Phyton)](https://github.com/Samuel-James971/mini-threat-detector-Python)
+- [Network Traffic Analysis project (Python)](https://github.com/Samuel-James971/mini-threat-detector-Python)
   
 - [Email Analysis](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/README.md)
   
