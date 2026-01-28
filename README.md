@@ -20,6 +20,8 @@
   
 - [Pen Testing](https://github.com/Samuel-James971/Pen-Testing/blob/main/README.md)
 
+- - [Cyber Threat Managing (OOP) ]()
+
 - [Python Scripting](https://github.com/Samuel-James971/Python-Scripting/blob/main/README.md)
 
  
