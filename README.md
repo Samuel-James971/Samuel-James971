@@ -22,7 +22,7 @@
 
 - [Python Scripting](https://github.com/Samuel-James971/Python-Scripting/blob/main/README.md)
 
--  -[Cyber Threat Managing (OOP) ](https://github.com/Samuel-James971/cyber-threat-management-system)
+-  [Cyber Threat Managing (OOP) ](https://github.com/Samuel-James971/cyber-threat-management-system)
 
  
 
